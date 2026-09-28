@@ -19,4 +19,4 @@ The code is not publicly available yet. Release updates will be posted in this r
 
 ## Contact
 
-For questions about this project, please contact [wa23301131@stu.ahu.edu.cn](mailto:wa23301131@stu.ahu.edu.cn).
+For questions about this project, please contact [w125111026@stu.ahu.edu.cn](mailto:w125111026@stu.ahu.edu.cn).
